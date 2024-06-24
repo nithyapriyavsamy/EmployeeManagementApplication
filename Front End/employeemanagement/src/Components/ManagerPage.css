@@ -1,0 +1,41 @@
+/* ManagerPage.css */
+
+.home-title {
+  text-align: center;
+  position: relative;
+  left: 280px;
+  margin-top: 2rem;
+}
+.container{
+  position: relative;
+  margin-top: 2rem;
+  bottom: 100px;   
+}
+
+.function-list {
+  list-style: none;
+  padding: 0;
+}
+
+.function-card {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.function-card h3 {
+  margin: 0;
+}
+
+.function-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.function-card:hover {
+  background-color: #e9ecef;
+}
+

@@ -1,0 +1,32 @@
+Employee Management:
+
+User
+	User_Id=>Pk
+	Role
+	state
+	Hashkey
+	Passwordhash
+	token
+	Manager_Id
+
+Employee
+	Emp_Id=>Pk,Fk
+	Name
+	Age
+	Phone
+	Address
+	Passport_No
+	DL_No
+
+Leave
+	Leave_Id=>Pk
+	Emp_id=>Fk
+	Manager_Id
+	Title
+	Duration
+	FromDate
+	ToDate
+	Leavestatus
+
+
+

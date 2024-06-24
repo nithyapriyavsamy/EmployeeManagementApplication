@@ -1,0 +1,497 @@
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Common.dll
+D:\Kanini Training\EmployeeManagement\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Model.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Common.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Model.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\Kanini Training\EmployeeManagement\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Common.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Model.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\Welcome\Desktop\Employee Management\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Common.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Model.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\dhine\KANINI\KaniniOnFloor\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Common.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Model.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\Kanini Training\EmployeeManagementProject\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Common.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Model.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\em\Backend\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Common.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\MediaBrowser.Model.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\em\EmployeeManagementSolution\EmployeeManagementSolution\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll

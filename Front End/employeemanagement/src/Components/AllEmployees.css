@@ -1,0 +1,10 @@
+.GetAll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;   
+}
+.select-dropdown{
+    background-color: #e6e6e6;
+    border-radius: 4px;
+}

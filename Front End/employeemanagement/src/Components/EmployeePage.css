@@ -1,0 +1,46 @@
+/* EmployeePage.css */
+.container{
+  position: relative;
+  bottom: 100px; 
+ 
+}
+
+.home-title {
+  text-align: center;
+  position: relative;
+  left: 280px;
+  margin-top: 2rem;
+}
+
+.function-list {
+  list-style: none;
+  padding: 0;
+}
+
+.function-list li {
+  margin-bottom: 1rem;
+}
+
+.function-card {
+  background-color: #343a40; /* Dark gray background color */
+  border: 1px solid #212529; /* Darker gray border color */
+  border-radius: 0.25rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.function-card h3 {
+  margin: 0;
+  color: #ffffff; /* White text color */
+}
+
+.function-link {
+  color: #ffffff; /* White text color */
+  text-decoration: none;
+}
+
+.function-card:hover {
+  background-color: #495057; /* Darker gray background color on hover */
+}
+
+
